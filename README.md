@@ -1,6 +1,6 @@
 # Discord-Nitro-Generator by secondsub
 
-The best and most easy to use Nitro Generator you will ever find by secondsub
+The best and most easy to use Nitro Generator you will ever find by secondsub ❤
 
 How to use: 
 1. Open the File named "Nitro Generator.py"
