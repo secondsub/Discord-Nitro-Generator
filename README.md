@@ -1,6 +1,7 @@
 # Discord-Nitro-Generator by secondsub
 
-The best and most easy to use Nitro Generator you will ever find by secondsub ❤
+The best and most easy to use Nitro Generator you will ever find
+by secondsub ❤
 
 Requirements:
 You need to have installed Python Version 3.9.0 or anything above that Version to use the Generator!
