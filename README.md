@@ -1,4 +1,4 @@
-# Discord-Nitro-Generator by secondsub
+# Discord Nitro Generator by secondsub
 
 The best and most easy to use Nitro Generator you will ever find
 
